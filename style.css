@@ -8,7 +8,7 @@ a{
 }
  a:hover {
      text-decoration: none;
-     color:#0c5adb;
+     color:#000;/*0c5adb*/
 }
  body {
      color: #777777;
